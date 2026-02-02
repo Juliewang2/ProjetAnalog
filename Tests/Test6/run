@@ -1,0 +1,1 @@
+../analog -e -g combined.dot test6.log

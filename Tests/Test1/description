@@ -1,0 +1,6 @@
+This test verifies the display of TOP10 sites with different hit counts (exactly 10 lines)
+Input:
+  - without options
+  - std.in (empty)
+Output:
+  - std.out: 10 most visited sites with different hit counts, exactly 10 lines

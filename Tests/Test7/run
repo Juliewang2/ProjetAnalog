@@ -1,0 +1,1 @@
+../analog -g output1.dot -g output2.dot test7.log

@@ -1,0 +1,6 @@
+This test verifies the production of two output files from the tested program
+Input:
+  - with -g option twice
+  - std.in (empty)
+Output:
+  - Two .dot files should be generated
