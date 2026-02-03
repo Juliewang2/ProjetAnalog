@@ -1,0 +1,7 @@
+Ce test permet de vérifier l'affichage du TOP10 des 10 sites avec un nombre de hits differents (10 lignes)
+
+entrée:
+  - sans option
+  - std.in
+sortie:
+  - std.out : 10 sites les plus visités avec le nombre de hits différents, on obtienera donc exactement 10 lignes.

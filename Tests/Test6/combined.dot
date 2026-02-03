@@ -1,0 +1,6 @@
+digraph{
+noeud0[label=/about.html];
+noeud2[label=/index.html];
+noeud0->noeud1[label=1];
+noeud2->noeud1[label=1];
+}

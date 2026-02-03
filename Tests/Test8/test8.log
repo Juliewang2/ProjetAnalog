@@ -1,0 +1,5 @@
+192.168.0.1 - - [08/Sep/2012:11:15:00 +0200] "GET /home.html HTTP/1.1" 200 1000 "-" "Mozilla"
+192.168.0.1 - - [08/Sep/2012:11:30:00 +0200] "GET /about.html HTTP/1.1" 200 2000 "http://intranet-if.insa-lyon.fr/home.html" "Mozilla"
+192.168.0.1 - - [08/Sep/2012:12:15:00 +0200] "GET /contact.html HTTP/1.1" 200 3000 "http://intranet-if.insa-lyon.fr/about.html" "Mozilla"
+192.168.0.1 - - [08/Sep/2012:12:30:00 +0200] "GET /products.html HTTP/1.1" 200 4000 "http://intranet-if.insa-lyon.fr/contact.html" "Mozilla"
+192.168.0.1 - - [08/Sep/2012:13:15:00 +0200] "GET /services.html HTTP/1.1" 200 5000 "http://intranet-if.insa-lyon.fr/products.html" "Mozilla"

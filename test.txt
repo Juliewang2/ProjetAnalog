@@ -1,0 +1,8 @@
+test1: Vérifier l'affichage du TOP10 des 10 sites avec un nombre de hits différents  
+test2: Vérifier l'affichage du TOP10 des sites qui peuvent avoir le même nombre de hits  
+test3: Test avec l'option -g pour générer un fichier GraphViz  
+test4: Test avec l'option -e pour exclure les fichiers statiques  
+test5: Test avec l'option -t pour filtrer par heure  
+test6: Test avec les options combinées -e et -g  
+test7: Test avec un fichier de log vide  
+test8: Test avec les options combinées -t et -g

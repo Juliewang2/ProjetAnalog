@@ -1,0 +1,2 @@
+Test9: Test avec options combinees -t et -g
+This test verifies the combination of time filtering and GraphViz generation.
